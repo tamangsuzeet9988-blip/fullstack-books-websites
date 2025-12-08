@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "The Silent Forest",
+    "author": "John West",
+    "price": 12.99,
+    "image": "assets/images/book1.jpg",
+    "description": "A thrilling mystery novel."
+  },
+  {
+    "id": 2,
+    "title": "Dream Beyond Stars",
+    "author": "Alicia Moon",
+    "price": 18.49,
+    "image": "assets/images/book2.jpg",
+    "description": "An adventure sci-fi spectacular."
+  }
+]

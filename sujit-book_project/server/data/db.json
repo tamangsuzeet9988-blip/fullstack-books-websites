@@ -1,0 +1,21 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 12.99,
+      "image": "http://localhost:5000/images/book1.jpg",
+      "description": "A proven guide to building habits."
+    },
+    {
+      "id": 2,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 10.99,
+      "image": "http://localhost:5000/images/book2.jpg",
+      "description": "A magical journey of self-discovery."
+    }
+  ],
+  "orders": []
+}
