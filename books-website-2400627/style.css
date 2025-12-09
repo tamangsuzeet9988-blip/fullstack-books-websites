@@ -1,0 +1,15 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+
+.button {
+    padding: 10px;
+    background: blue;
+    color: white;
+    text-decoration: none;
+}
+
+#books-container {
+    margin-top: 20px;
+}
